@@ -1,0 +1,11 @@
+SW/Software engineer
+EE/Electrical engineer
+DA/Data analyst
+NE/Network engineer
+CS/Cyber security
+IoT/IoT technology
+AI/Artificial intelligence
+ML/Machine learning 
+RPA/Robotic process automation
+MM/Multi-Media technology
+IT/Infomation technology

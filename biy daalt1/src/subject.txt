@@ -1,0 +1,20 @@
+F.CSA101/Mergejliin udirtgal/2.0
+F.CSM101/Programchlaliin undsen arguud/3.0
+S.CEM101/Hariltsaani angli hel/3.0
+S.CFM100/Programchlaliin undes/3.0
+S.EEM101/Injinerchleliin ediin zasag/3.0
+S.MHM101/Mongoliin tuukh/3.0
+S.MLM101/Hel yrianii soyol/3.0
+S.MTM131/Mathematic 1C/3.0
+S.MTM132/Mathematic 2C/3.0
+S.PHM101/Physics I/3.0
+S.PHM102/Physics II/3.0
+F.CSM201/Program hangamjiin injinerchleliin undes/3.0
+F.CSM202/Object handlagat programchlal/3.0
+F.CSM203/Ogogdliin butets ba algorithm/3.0
+F.EEM200/Tsahilgaan ba electron tekhnikiin undes/3.0
+F.ITM202/Web zohiomj/3.0
+F.ITM204/Ogogdliin sangiin system/3.0
+S.DSM201/Discrete mathematic/3.0
+S.EEM101/Injinerchleliin ediin zasag/3.0
+S.PSM201/Magadlaliin onol bas statistic/3.0
